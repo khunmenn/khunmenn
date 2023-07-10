@@ -4,24 +4,23 @@
 </p>
 
 <!-- ชื่อโปรไฟล์ -->
-<h1 align="center">สวัสดี 👋 ฉันคือ [ชื่อของคุณ]</h1>
+<h1 align="center">สวัสดี 👋 ฉันคือ [คุณเม่น KhunMenn]</h1>
 
 <!-- คำอธิบาย -->
 <p align="center">รายละเอียดสั้น ๆ เกี่ยวกับคุณหรือโปรเจกต์ของคุณ</p>
 
 <!-- ติดต่อ -->
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:emugametest@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <!-- ความเชี่ยวชาญ -->
 <h2>ความเชี่ยวชาญ</h2>
 
 <ul>
-  <li>ความเชี่ยวชาญที่ 1</li>
-  <li>ความเชี่ยวชาญที่ 2</li>
-  <li>ความเชี่ยวชาญที่ 3</li>
+  <li>Javascript</li>
+  <li>Python</li>
+  <li>C/C++</li>
 </ul>
 
 <!-- โปรเจกต์ที่น่าสนใจ -->
