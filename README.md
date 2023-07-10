@@ -37,22 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<!-- กระดานข่าว GitHub -->
-<h2>กระดานข่าว GitHub</h2>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&bg_color=FFFFFF&color=000000&line=000000&point=00FF00" alt="GitHub Activity" />
-</p>
-
 <!-- ผู้เขียน -->
-<h2>ผู้เขียน</h2>
-
-<p>ระบุชื่อและข้อมูลติดต่อของผู้เขียนหรือทีมพัฒนา</p>
-
-<!-- ใบอนุญาต -->
-<h2>ใบอนุญาต</h2>
-
-<p>ระบุข้อมูลเกี่ยวกับใบอนุญาตของโปรเจกต์ (ตัวอย่างเช่น MIT License)</p>
+<h2>คุณเม่น KhunMenn</h2>
 
 <!-- อธิบายเพิ่มเติม -->
 <p align="center">
