@@ -1,8 +1,3 @@
-<!-- แบนเนอร์ -->
-<p align="center">
-  <img src="https://scontent.fbkk23-1.fna.fbcdn.net/v/t1.6435-9/106046610_2695952420693528_4661443676452932630_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFIB9kDl_Ae_qHG88rrfp2O2iN1pGGEiK_aI3WkYYSIr4hk3ynhZDheojqNolz0NvaTQRiDDocSnTS0zf2RlX3X&_nc_ohc=s4s0bMH1MgUAX-QDxfZ&_nc_ht=scontent.fbkk23-1.fna&oh=00_AfCqAhbLyLYnsLVBRdwViCviaYkldX-b-RicSmSPGvF3KQ&oe=64D34DDB" alt="Banner" width="150" height="150" style="border-radius: 25px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
-</p>
-
 <!-- ชื่อโปรไฟล์ -->
 <h1 align="center">สวัสดี 👋 ฉันคือ [คุณเม่น KhunMenn]</h1>
 
