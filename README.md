@@ -6,7 +6,6 @@
 
 <!-- ติดต่อ -->
 <p align="center">
-  <a href="mailto:emugametest@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="https://ko-fi.com/J3J0O4NM0"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 </p>
 
